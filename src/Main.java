@@ -14,10 +14,16 @@ public class Main {
 //        System.out.println(employee.getSalary());
 //        L3 l3 = new L3();
 //        l3.section3();
-        Transport car = new Car();
-        Transport bike = new Bike();
-        TransportManager tm = new TransportManager();
-        tm.startTransport(car);
-        tm.startTransport(bike);
+//        Transport car = new Car();
+//        Transport bike = new Bike();
+//        TransportManager tm = new TransportManager();
+//        tm.startTransport(car);
+//        tm.startTransport(bike);
+//        L4 l4 = new L4();
+//        l4.section1();
+        dz3 dz3 = new dz3();
+        Divide divide = new Divide();
+        divide.divide();
+
     }
 }
