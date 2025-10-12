@@ -21,9 +21,17 @@ public class Main {
 //        tm.startTransport(bike);
 //        L4 l4 = new L4();
 //        l4.section1();
-        dz3 dz3 = new dz3();
-        Divide divide = new Divide();
-        divide.divide();
-
+//        dz3 dz3 = new dz3();
+//        Divide divide = new Divide();
+//        divide.divide();
+//        L5 l5 = new L5();
+//        l5.Section1();
+        dz4 dz4 = new dz4();
+        dz4.add();
+        dz4.find();
+        dz4.remove();
+        dz4.add2();
+        dz4.remove2();
+        dz4.sort();
     }
 }
