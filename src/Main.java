@@ -30,8 +30,9 @@ public class Main {
         dz4.add();
         dz4.find();
         dz4.remove();
-        dz4.add2();
-        dz4.remove2();
-        dz4.sort();
+        Task task = new Task("ads",4);
+        task.sort();
+        UniqueSortedList uniqueSortedList = new UniqueSortedList();
+        uniqueSortedList.print();
     }
 }
