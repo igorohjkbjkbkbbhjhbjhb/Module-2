@@ -3,7 +3,7 @@ import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.TreeMap;
 
-public class dz5 {
+public class Dz5 {
     public void nomberOne(){
         Map<String, String> book = new HashMap<>();
         book.put("Dostoevski", "Crime and nakazanie");
