@@ -26,24 +26,15 @@ public class Main {
 //        divide.divide();
 //        L5 l5 = new L5();
 //        l5.Section1();
-        // dz4 dz4 = new dz4();
-        // dz4.add();
-        // dz4.find();
-        // dz4.remove();
-        // Task task = new Task("ads",4);
-        // task.sort();
-        // UniqueSortedList uniqueSortedList = new UniqueSortedList();
-        // uniqueSortedList.print();
-        //        Task task = new Task("ads",4);
-//        task.sort();
-//        UniqueSortedList uniqueSortedList = new UniqueSortedList();
-//        uniqueSortedList.print();
-//        L7 l7 = new L7();
-//        l7.section1();
-//        l7.section2();
-        Dz5 dz5 = new Dz5();
-        dz5.nomberOne();
-        dz5.nomberTwo();
-        dz5.nomberThree();
+        dz4 dz4 = new dz4();
+        dz4.add();
+        dz4.find();
+        dz4.remove();
+        Task task = new Task("ads",4);
+        task.sort();
+        UniqueSortedList uniqueSortedList = new UniqueSortedList();
+        uniqueSortedList.print();
+               Task task = new Task("ads",4);
+
     }
 }
