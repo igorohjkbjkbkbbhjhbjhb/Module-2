@@ -39,11 +39,19 @@ public class Main {
 //        UniqueSortedList uniqueSortedList = new UniqueSortedList();
 //        uniqueSortedList.print();
 //        L7 l7 = new L7();
-//        l7.section1();
+//        l7.section1();``
 //        l7.section2();
-        Dz5 dz5 = new Dz5();
-        dz5.nomberOne();
-        dz5.nomberTwo();
-        dz5.nomberThree();
+//        Dz5 dz5 = new Dz5();
+//        dz5.nomberTwo();
+//        dz5.nomberOne();
+//        dz5.nomberThree();
+        Dz6 dz6 = new Dz6();
+        dz6.add();
+        dz6.found();
+        dz6.watchAll();
+        dz6.T10();
+        UnicListOfPeople unicListOfPeople = new UnicListOfPeople();
+        unicListOfPeople.sa();
     }
+
 }
