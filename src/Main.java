@@ -45,13 +45,17 @@ public class Main {
 //        dz5.nomberTwo();
 //        dz5.nomberOne();
 //        dz5.nomberThree();
-        Dz6 dz6 = new Dz6();
-        dz6.add();
-        dz6.found();
-        dz6.watchAll();
-        dz6.T10();
-        UnicListOfPeople unicListOfPeople = new UnicListOfPeople();
-        unicListOfPeople.sa();
+//        Dz6 dz6 = new Dz6();
+//        dz6.add();
+//        dz6.found();
+//        dz6.watchAll();
+//        dz6.T10();
+//        UnicListOfPeople unicListOfPeople = new UnicListOfPeople();
+//        unicListOfPeople.sa();
+        Dz7 dz7 = new Dz7();
+        dz7.section2();
+        dz7.section3();
+        dz7.section1();
     }
 
 }
